@@ -92,42 +92,42 @@ MDN 문서를 읽고 작성해보기.
 ### 결과
 
 <h2>우체국택배(방문접수)</h2>
-	<table class="price-table">
-		<caption>고객이 원하는 장소로 우체국직원이 방문하여 접수하는 서비스</caption>
-		<thead>
-			<tr>
-				<th colspan="2" scope="col">구분<br>(초과 ~ 이하)</th>
-				<th scope="col">5kg 이하<br>(80㎝ 이하)</th>
-				<th scope="col">5kg∼10kg<br>(80㎝∼100㎝))</th>
-				<th scope="col">10kg∼20kg<br>(100㎝∼120㎝)</th>
-				<th scope="col">20kg∼30kg<br>(120㎝∼160㎝)</th>
-			</tr>
-			</thead>
-			<tbody>
-			<tr>
-				<th colspan="2" scope="row">익일배달</th>
-				<td>5,000</td>
-				<td>8,000</td>
-				<td>10,000</td>
-				<td>12,000</td>
-			</tr>
-			<tr>
-				<th rowspan="2" scope="row">제주</th>
-				<th scope="row">익일배달</th>
-				<td>7,500</td>
-				<td>10,500</td>
-				<td>12,500</td>
-				<td>14,500</td>
-			</tr>
-			<tr>
-				<th scope="row">D+2 배달</th>
-				<td>5,000</td>
-				<td>8,000</td>
-				<td>10,000</td>
-				<td>12,000</td>
-			</tr>
-		</tbody>
-	</table>
+<table class="price-table">
+	<caption>고객이 원하는 장소로 우체국직원이 방문하여 접수하는 서비스</caption>
+	<thead>
+		<tr>
+			<th colspan="2" scope="col">구분<br>(초과 ~ 이하)</th>
+			<th scope="col">5kg 이하<br>(80㎝ 이하)</th>
+			<th scope="col">5kg∼10kg<br>(80㎝∼100㎝))</th>
+			<th scope="col">10kg∼20kg<br>(100㎝∼120㎝)</th>
+			<th scope="col">20kg∼30kg<br>(120㎝∼160㎝)</th>
+		</tr>
+		</thead>
+		<tbody>
+		<tr>
+			<th colspan="2" scope="row">익일배달</th>
+			<td>5,000</td>
+			<td>8,000</td>
+			<td>10,000</td>
+			<td>12,000</td>
+		</tr>
+		<tr>
+			<th rowspan="2" scope="row">제주</th>
+			<th scope="row">익일배달</th>
+			<td>7,500</td>
+			<td>10,500</td>
+			<td>12,500</td>
+			<td>14,500</td>
+		</tr>
+		<tr>
+			<th scope="row">D+2 배달</th>
+			<td>5,000</td>
+			<td>8,000</td>
+			<td>10,000</td>
+			<td>12,000</td>
+		</tr>
+	</tbody>
+</table>
 
 ```
 <h2>우체국택배(방문접수)</h2>
